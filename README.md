@@ -16,7 +16,3 @@ Optimizing data fetching and state management is made effortless with React Quer
 
 ### Infinite Scroll Functionality
 Our social media app goes beyond the conventional by implementing infinite scroll functionality. Say goodbye to pagination as users seamlessly explore content with automatic loading as they scroll. This feature ensures a fluid and continuous browsing experience, keeping users engaged and immersed in the content flow.
-
-## Live Demo
-
-Check out the live demo [here](https://modern-social-media-app.vercel.app).
